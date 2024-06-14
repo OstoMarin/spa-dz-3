@@ -72,8 +72,8 @@ int main() {
     cin >> xa >> ya;
     cout << "Upisi kraj tocke B (x,y)";
     cin >> xb >> yb;
-    pair<int, int> pocetak = { xa, ya };
-    pair<int, int> kraj = { xb, yb };
+    pair<int, int> pocetak = { ya, xa };
+    pair<int, int> kraj = { yb, xb };
 
     vector<pair<int, int>> put = bfs(pocetak, kraj);
 
