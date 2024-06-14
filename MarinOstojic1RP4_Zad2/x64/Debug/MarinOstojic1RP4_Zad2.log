@@ -1,0 +1,3 @@
+﻿  Zadatak2.cpp
+C:\Users\marin\OneDrive\Desktop\Faks\SPA\DZ\MarinOstojic1RP4_DZ3\MarinOstojic1RP4_Zad2\Zadatak2.cpp(17,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MarinOstojic1RP4_Zad2.vcxproj -> C:\Users\marin\OneDrive\Desktop\Faks\SPA\DZ\MarinOstojic1RP4_DZ3\x64\Debug\MarinOstojic1RP4_Zad2.exe
